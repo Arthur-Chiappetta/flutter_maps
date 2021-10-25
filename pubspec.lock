@@ -63,7 +63,7 @@ packages:
     source: sdk
     version: "0.0.0"
   flutter_config:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: flutter_config
       url: "https://pub.dartlang.org"
